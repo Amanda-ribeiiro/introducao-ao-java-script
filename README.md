@@ -1,2 +1,5 @@
-# introducao-ao-java-script
-Introducao ao Javascript
+### Introducao ao Javascript ###
+
+Dio - Introducao ao JavaScrip
+
+Criando meu primeiro documento em JavaScript
